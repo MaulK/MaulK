@@ -149,6 +149,25 @@
 
 <div align="center">
 
+## <span style="font-family: 'Courier New', monospace;">🐍 CONTRIBUTION SNAKE</span>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<!-- 8-Bit Divider -->
+<pre>
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+</pre>
+
+<div align="center">
+
 ## <span style="font-family: 'Courier New', monospace;">🏆 ACHIEVEMENTS</span>
 
 <a href="https://github.com/MaulK">
