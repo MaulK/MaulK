@@ -126,10 +126,17 @@
 ╚════════════════════════════════════════════════════════════════════════════╝
 </pre>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaulK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MaulK&theme=tokyonight&hide_border=true&background=0D1117&stroke=00ff00&ring=00ff00&fire=ff9900&currStreakLabel=ffffff)
+<a href="https://github.com/MaulK">
+  <img src="https://github-readme-stats.vercel.app/api?username=MaulK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff" alt="GitHub Stats">
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaulK&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ff00&text_color=ffffff)
+<a href="https://github.com/MaulK">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaulK&theme=tokyonight&hide_border=true&background=0D1117&stroke=00ff00&ring=00ff00&fire=ff9900&currStreakLabel=ffffff" alt="GitHub Streak">
+</a>
+
+<a href="https://github.com/MaulK">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaulK&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ff00&text_color=ffffff" alt="Top Languages">
+</a>
 
 </div>
 
@@ -144,7 +151,9 @@
 
 ## <span style="font-family: 'Courier New', monospace;">🏆 ACHIEVEMENTS</span>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MaulK&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=4)
+<a href="https://github.com/MaulK">
+  <img src="https://github-profile-trophy.vercel.app/?username=MaulK&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=4" alt="GitHub Trophies">
+</a>
 
 </div>
 
@@ -249,12 +258,12 @@
   | |-| ||___  ||     ||     ||     |
   | | | ||<_____|\_____/\_____/|_____|
   
-  ██████╗ ███████╗ █████╗ ██████╗ 
-  ██╔══██╗██╔════╝██╔══██╗██╔══██╗
-  ██████╔╝█████╗  ███████║██║  ██║
-  ██╔══██╗██╔══╝  ██╔══██║██║  ██║
-  ██║  ██║███████╗██║  ██║██████╔╝
-  ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═════╝ 
+   ██████╗ ███████╗ █████╗ ██████╗ 
+   ██╔══██╗██╔════╝██╔══██╗██╔══██╗
+   ██████╔╝█████╗  ███████║██║  ██║
+   ██╔══██╗██╔══╝  ██╔══██║██║  ██║
+   ██║  ██║███████╗██║  ██║██████╔╝
+   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═════╝ 
 </pre>
 
 ### <span style="font-family: 'Courier New', monospace;">Thanks for visiting! Let's create something amazing together! 🚀</span>
